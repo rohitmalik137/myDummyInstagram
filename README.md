@@ -1,2 +1,2 @@
 # myInstagram
-A basic social site like instagram with no styling
+A basic social site like instagram with no styling in which user can add posts, delete posts, see other users' profiles. Can follow other users and it also shows the no. of followers and following users by user...
